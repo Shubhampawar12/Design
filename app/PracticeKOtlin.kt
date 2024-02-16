@@ -1,0 +1,4 @@
+class PracticeKOtlin {
+
+    val readOnly=
+}
