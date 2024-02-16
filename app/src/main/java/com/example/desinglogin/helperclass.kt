@@ -81,7 +81,7 @@ class helperclass(context: Context) : SQLiteOpenHelper(context,DATABASE_NAME,nul
         val selectionArgs = arrayOf(data.id.toString())
         db.update("DetailsofApi", values, selection, selectionArgs)
     }
-
+//commments
     fun deleteData(dataId: Int) {
 
         val db = writableDatabase
