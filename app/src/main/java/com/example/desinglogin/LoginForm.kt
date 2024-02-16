@@ -17,7 +17,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.textfield.TextInputEditText
-
+//comments added to the code
 class LoginForm : AppCompatActivity() {
     private lateinit var btn:Button
     private lateinit var button:Button
